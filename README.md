@@ -1,2 +1,2 @@
-# coursera-html-css-js-for-web-devs
-This is a coursera repo for assignments
+# html-css-js
+Demo Website using html css and JS
